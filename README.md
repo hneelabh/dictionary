@@ -1,0 +1,4 @@
+- A comprehensive and user-friendly dictionary app that provides instant word definitions, synonyms, and pronunciation. 
+- This web app gives the users to lookup for words and their meanings with help of API. 
+- The users also may check the synonyms, and relative senses such as in noun, verb, adjective etc. 
+- Word Pronunciation also available in multiple accents of the language.
